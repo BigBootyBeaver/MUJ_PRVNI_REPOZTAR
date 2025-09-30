@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FunkcePole")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Zaklady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5acabda0c67f05eef58ba6f3bdc7fce9b4e8e15")]
-[assembly: System.Reflection.AssemblyProductAttribute("FunkcePole")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FunkcePole")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Zaklady")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Zaklady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

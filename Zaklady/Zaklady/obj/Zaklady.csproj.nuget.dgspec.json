@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\C#\\Repo_seminare\\MUJ_PRVNI_REPOZTAR\\FunkcePole\\FunkcePole\\FunkcePole.csproj": {}
+    "C:\\Users\\opatrnyt\\Documents\\Zaklady\\Zaklady\\Zaklady.csproj": {}
   },
   "projects": {
-    "O:\\C#\\Repo_seminare\\MUJ_PRVNI_REPOZTAR\\FunkcePole\\FunkcePole\\FunkcePole.csproj": {
+    "C:\\Users\\opatrnyt\\Documents\\Zaklady\\Zaklady\\Zaklady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\C#\\Repo_seminare\\MUJ_PRVNI_REPOZTAR\\FunkcePole\\FunkcePole\\FunkcePole.csproj",
-        "projectName": "FunkcePole",
-        "projectPath": "O:\\C#\\Repo_seminare\\MUJ_PRVNI_REPOZTAR\\FunkcePole\\FunkcePole\\FunkcePole.csproj",
+        "projectUniqueName": "C:\\Users\\opatrnyt\\Documents\\Zaklady\\Zaklady\\Zaklady.csproj",
+        "projectName": "Zaklady",
+        "projectPath": "C:\\Users\\opatrnyt\\Documents\\Zaklady\\Zaklady\\Zaklady.csproj",
         "packagesPath": "C:\\Users\\opatrnyt\\.nuget\\packages\\",
-        "outputPath": "O:\\C#\\Repo_seminare\\MUJ_PRVNI_REPOZTAR\\FunkcePole\\FunkcePole\\obj\\",
+        "outputPath": "C:\\Users\\opatrnyt\\Documents\\Zaklady\\Zaklady\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
